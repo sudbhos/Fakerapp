@@ -1,0 +1,31 @@
+body{
+background: red;
+content: blue;
+}
+
+img{
+
+height: 200px;
+width: 30%;
+float:left;
+margin:1.5%;
+
+
+border:2px solid blue;
+}
+
+table,thead,th,tr,td{
+color:yellow;
+border:2px solid white;
+font-size:20px;
+margin:auto;
+background:gold;
+
+}
+
+thead,th{
+color:white;
+border:2px solid white;
+font-size:20px;
+margin:auto;
+background:gold;
